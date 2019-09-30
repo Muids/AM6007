@@ -33,9 +33,8 @@ namespace TranscendentalEquations
                 x0 = x1;
 
                 if (i == maxIter - 1)
-                /* basic stopping criterion! 
-                   computational scientists worth their salt will implement more sophisticate logic 
-                   to detect divergence of the solution!
+                /* basic stopping criterion! computational scientists worth their salt will implement 
+                   more sophisticated logic to detect divergence of the solution!
                 */
                 {
                     Console.WriteLine(":( No solution found.");
