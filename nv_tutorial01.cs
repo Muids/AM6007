@@ -1,3 +1,13 @@
+/* Each exercise is enclosed within a class, and the entry function called "MainProgram()" for each exercise,
+ * and can be executed with the namespace nv_tutorial01, i.e. "using nv_tutorial01", as follows:
+ *
+ * public static void Main(string[] args)
+ * {
+ *		nv_tutorial01_exercise01.MainProgram();
+ * }
+ *
+ */
+
 using System;
 using System.Collections.Generic;
 using System.Text;
